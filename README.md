@@ -1,6 +1,6 @@
 # home-automation
 
-We will build an application that can control home appliances. Here, we will control a 100W bulb using Google Assistant service.
+We build an application that can control home appliances. Here, we will control a 100W bulb using Google Assistant service.
 
 This application includes Google assistant along with Webhooks and IFTTT service.
 
