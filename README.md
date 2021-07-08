@@ -1,8 +1,6 @@
 # home-automation
 
-We build an application that can control home appliances. Here, we will control a 100W bulb using Google Assistant service.
-
-This application includes Google assistant along with Webhooks and IFTTT service.
+This application can control home appliances using Google assistant along with Webhooks and IFTTT service. This project especially tried with 100W bulb.
 
 ### Hardware Used:
 - NodeMCU 32-bit ESP8266 development board with Wi-Fi SoC.
